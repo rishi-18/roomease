@@ -1,0 +1,16 @@
+INSERT INTO staff (name, position, contact_no, salary, join_date) VALUES
+('Rajesh Kumar', 'Warden', '9812345678', 45000.00, '2021-06-01'),
+('Sunita Sharma', 'Caretaker', '9812345679', 30000.00, '2020-08-15'),
+('Vikram Singh', 'Cleaner', '9812345680', 25000.00, '2019-12-10'),
+('Anjali Verma', 'Cook', '9812345681', 28000.00, '2022-01-05'),
+('Manish Gupta', 'Security', '9812345682', 32000.00, '2018-11-20'),
+('Neha Joshi', 'Cleaner', '9812345683', 25000.00, '2021-03-14'),
+('Amit Patel', 'Cook', '9812345684', 28000.00, '2020-05-22'),
+('Suresh Yadav', 'Security', '9812345685', 32000.00, '2019-09-18'),
+('Pooja Reddy', 'Caretaker', '9812345686', 30000.00, '2022-02-28'),
+('Rohit Mehta', 'Warden', '9812345687', 45000.00, '2020-07-11'),
+('Divya Kapoor', 'Other', '9812345688', 27000.00, '2021-10-09'),
+('Sanjay Malhotra', 'Security', '9812345689', 32000.00, '2019-04-01'),
+('Kavita Singh', 'Cook', '9812345690', 28000.00, '2020-12-17'),
+('Rahul Sharma', 'Cleaner', '9812345691', 25000.00, '2021-08-30'),
+('Meena Kumari', 'Caretaker', '9812345692', 30000.00, '2018-03-05');
